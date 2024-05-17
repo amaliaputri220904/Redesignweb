@@ -14,7 +14,7 @@ Navigasi Pencarian yang Ditingkatkan:
 
 Katalog Produk dengan Deskripsi Lengkap:
 - Fitur: Menambahkan deskripsi detail pada setiap produk di katalog.
-- Penjelasan: Deskripsi yang mencakup informasi seperti rasa, ukuran, dan rekomendasi penggunaan membantu pelanggan membuat keputusan pembelian yang lebih baik dan terinformasi.
+- Penjelasan: Deskripsi yang mencakup informasi seperti rasa, dan rekomendasi penggunaan membantu pelanggan membuat keputusan pembelian yang lebih baik dan terinformasi.
 - Hasil: Pelanggan akan merasa lebih percaya diri dalam memilih produk, yang dapat meningkatkan kepuasan dan mengurangi tingkat pengembalian produk.
 
 Penambahan Tombol "Mulai Belanja":
